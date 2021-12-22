@@ -1,0 +1,7 @@
+name: LoreImprove
+version: '${version}'
+main: ru.ckateptb.loreimprove.LoreImprove
+api-version: 1.17
+depend: [ Tablecloth, CommandAPI ]
+authors: [ CKATEPTb ]
+description: Improve your Items with custom attributes in GUI
